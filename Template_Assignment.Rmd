@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output: pdf_document
 ---
 
-# Set-up your environment
+## Set-up your environment
 
 ```{r package_install, eval=FALSE, include=FALSE}
 install.packages("tidyverse")
